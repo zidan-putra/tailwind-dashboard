@@ -1,0 +1,2 @@
+icon untuk sidebar, perlu untuk disesuaikan terlebih dahulu sebelum digunakan.
+harus dilakuakn penyesuaian viewbox terlebih dahulu supaya svgnya lebih seusai ukuranya.
